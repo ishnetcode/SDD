@@ -1,0 +1,64 @@
+/constitute creation
+Token - 175148
+Input - 30091
+cached- 137856
+output - 7201
+
+prompt: /speckit.constitution declare principle for clean code, enterprise app standards, simple UX responsive design. the project must use angular for frontend and Python fast API for backend
+
+Model: gpt-40-mini
+
+
+Updated files
+.specify/memory/constitution.md
+.specify/templates/plan-template.md
+.specify/templates/spec-template.md
+.specify/templates/tasks-template.md
+
+
+/speckit.specify I want to create an app for an insurance where it will show a card and it will have capabilities to manage a policy and view documents feature. the card will show existing policy details like Date of renewal, covers added to policy and etc, this app will be used by customers who are already having a policy.
+Token - 272925
+Input - 27976
+cached- 238848
+output- 6101
+
+Clarify: 
+Token - 37842
+Input - 11787
+cached- 25088
+output- 967
+
+Model - MAI-Code1-Flash
+MAI-Code-1-Flash • 1.8 credits
+MAI-Code-1-Flash • 1.5 credits
+MAI-Code-1-Flash • 6.6 credits
+
+/speckit.plan - it rurns a powreshell script
+Token - 856053
+Input - 49474
+cached- 797696
+output- 8883
+MAI-Code-1-Flash • 13.7 credits
+
+
+/speckit.tasks - 
+
+Token - 111979
+Input - 2371
+cached- 107904
+output- 1704
+
+MAI-Code-1-Flash • 1.8 credits
+
+/speckit.analyse - tells us what could be improved in requiremment spec and taks
+
+Token - 174987
+Input - 32214
+cached- 138624
+output - 4149
+
+MAI-Code-1-Flash • 5.3 credits
+
+
+/speckit.implement:
+MAI-Code-1-Flash • 36.6 credits

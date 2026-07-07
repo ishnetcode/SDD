@@ -1,0 +1,43 @@
+Open spec:
+/opsx-propose declare principle for clean code, enterprise app standards, simple UX responsive design. the project must use angular for frontend and Python fast API for backend. I want to create an app for an insurance where it will show a card and it will have capabilities to manage a policy and view documents feature. the card will show existing policy details like Date of renewal, covers added to policy and etc, this app will be used by customers who are already having a policy.
+
+Model: gpt-40-mini
+
+
+Updated files
+proposal.md: why, what, capabilities, impact (policy card, management, documents, backend, standards)
+design.md: architecture, API surface, UI component design, decisions, risks, migration plan
+specs/*: capability specs for policy-card, policy-management, document-viewer, backend-api, engineering-standards
+tasks.md: verifiable checklist to implement backend, frontend, tests, CI, deployment
+
+
+Token - 810894
+Input - 43160
+cached- 756864
+output- 10870
+
+Model - GPT-5 mini • 5.1 credits
+
+/opsx-explore: 
+Token - 293053
+Input - 35521
+cached- 255744
+output- 1788
+
+GPT-5 mini • 1.9 credits
+
+
+/opsx-apply - implements the flow
+Token - 1057953
+Input -  65925
+cached- 985600
+output- 6428
+
+GPT-5 mini • 5.4 credits
+ToDos- 
+
+Token - 1498760
+Input - 37304
+cached- 1454720
+output- 6736
+GPT-5 mini • 5.9 credits
